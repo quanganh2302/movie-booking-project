@@ -133,7 +133,7 @@ export default function MovieForm() {
                     },
                     {
                         pattern:
-                            '[a-zA-Z]{4,}',
+                            '',
                         message: 'Tên phim không đúng định dạng. ',
                     },
                 ]}
