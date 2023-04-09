@@ -66,7 +66,7 @@ export default function Footer() {
                                     Address: 33 Nguyễn Kim st, Dis.5
                                 </a>
                             </li>
-                            <li className="nav-item">Phone: 0353626765</li>
+                            <li className="nav-item">Phone: 0123456789</li>
                             <li className="nav-item">
                                 <ul className="nav">
                                     <li className="nav-item">
